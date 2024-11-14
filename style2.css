@@ -1,0 +1,51 @@
+#heading1{
+    color: red;
+    font-family: algerian;
+    font-size: 50px;
+}
+nav{
+    display: flex;
+}
+.flex1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex2{
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    position: absolute;
+    right: 15%;
+}
+.hover:hover{
+    color: red;
+}
+.hover{
+    color: darkgoldenrod;
+    font-family: algerian;
+    font-size: 35px;
+}
+#image1{
+    border-radius: 50%;
+}
+#heading2{
+    text-align: center;
+    color: black;
+    font-family: algerian;
+    font-size: 70px;
+}
+.paragraph{
+    text-align: center;
+    color: rgb(245, 9, 9);
+    font-family: algerian;
+    font-size: 45px;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    line-height: 72px;
+}
+.span2{
+    font-size: 60px;
+    color: white;
+}

@@ -1,0 +1,61 @@
+#heading1{
+    color: red;
+    font-family: algerian;
+    font-size: 40px;
+}
+nav{
+    display: flex;
+}
+.flex1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex2{
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    position: absolute;
+    right: 15%;
+}
+.hover:hover{
+    color: red;
+}
+.hover{
+    color: darkgoldenrod;
+    font-family: algerian;
+    font-size: 30px;
+}
+#image1{
+    border-radius: 50%;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.span2{
+    font-size: 60px;
+    color: green;
+}
+.heading3{
+    color: darkturquoise;
+    font-size: 50px;
+    font-family: algerian;
+    text-align: center;
+}
+.flex4{
+    display: flex;
+}
+.head1{
+    font-size: 35px;
+    font-family: algerian;
+    color: lightsalmon;
+}
+#right{
+    position: absolute;
+    right: 15%;
+}
+#left{
+    position: relative;
+    left: 15%;
+}
